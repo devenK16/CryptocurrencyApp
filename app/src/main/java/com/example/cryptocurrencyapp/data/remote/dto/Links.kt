@@ -1,9 +1,7 @@
 package com.example.cryptocurrencyapp.data.remote.dto
 
 
-import android.support.annotation.Keep
 
-@Keep
 data class Links(
     val explorer: List<String>,
     val facebook: List<String>,
